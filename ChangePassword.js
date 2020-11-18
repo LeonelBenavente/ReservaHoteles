@@ -5,6 +5,9 @@
 
 
 //$("#btnChangePassword").click(function () {
+
+
+/// prueba
 //    $("#frmChangePassword").validate();
 //    if ($("#frmChangePassword").valid()) {
 
